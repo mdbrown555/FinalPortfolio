@@ -3,8 +3,6 @@ import WorkCard from "./WorkCard";
 import WorkCardData from "./WorkCardData"
 
 import React from "react";
-import pro1 from "../assets/mohammad-rahmani-N5bT5RctFZ8-unsplash.jpg";
-import { NavLink } from "react-router-dom";
 
 const Work = () => {
     return (
