@@ -4,6 +4,7 @@ import Footer from "../components/Footer";
 import HeroImgProject from "../components/HeroImgProject";
 import PricingCard from "../components/PricingCard";
 import WorkCard from "../components/WorkCard";
+import Work from "../components/Work";
 
 
 const Project = () => {
@@ -11,7 +12,7 @@ const Project = () => {
         <div>
             <Navbar />
             <HeroImgProject heading="PROJECTS" text="Recent projects I have completed..." />
-            <WorkCard/>
+            <Work/>
             <PricingCard/>
             <Footer />
         </div>
