@@ -1,5 +1,9 @@
-import pro1 from "../assets/mohammad-rahmani-N5bT5RctFZ8-unsplash.jpg";
+import pro1 from "../assets/kelly-sikkema-LzfP2KtuvVQ-unsplash.jpg";
+import pro2 from "../assets/kelly-sikkema-LzfP2KtuvVQ-unsplash.jpg";
+import pro3 from "../assets/kelly-sikkema-LzfP2KtuvVQ-unsplash.jpg";
+import pro4 from "../assets/kelly-sikkema-LzfP2KtuvVQ-unsplash.jpg";
 import pro5 from "../assets/kelly-sikkema-LzfP2KtuvVQ-unsplash.jpg";
+import pro6 from "../assets/kelly-sikkema-LzfP2KtuvVQ-unsplash.jpg";
 
 const ProjectCardData = [
     {
@@ -10,39 +14,39 @@ const ProjectCardData = [
         source: "",
     },
     {
-        imgsrc: pro1,
+        imgsrc: pro2,
         title: "Project 2",
         text: "Loren ipsum Loren ipsum  Loren ipsum Loren ipsum Loren ipsum Loren ipsum Loren ipsum Loren ipsum Loren ipsum Loren ipsum",
         view: "",
         source: "",
     },
     {
-        imgsrc: pro1,
+        imgsrc: pro3,
         title: "Project 3",
         text: "Loren ipsum Loren ipsum  Loren ipsum Loren ipsum Loren ipsum Loren ipsum Loren ipsum Loren ipsum Loren ipsum Loren ipsum",
         view: "",
         source: "",
     },
     {
-        imgsrc: pro1,
-        title: "Project 4",
-        text: "Loren ipsum Loren ipsum  Loren ipsum Loren ipsum Loren ipsum Loren ipsum Loren ipsum Loren ipsum Loren ipsum Loren ipsum",
+        imgsrc: pro4,
+        title: "KKMN Tools",
+        text: "A mock hardware e-commerce website built using React & Redux with Stripe functionality.",
         view: "",
-        source: "",
+        source: "https://github.com/Group2-FullStack/Project",
     },
     {
         imgsrc: pro5,
         title: "Light's Notebook",
-        text: "A back end focused database application that contains a list of names of criminals who are destined to die, each with attributes such as image, cause of death, time of death, and the name of the person who verified their death. This project is a deployed application through Heroku, and uses Javascript, Node.js, MySQL, Express, and Seqeulize to store names in a MySQL database, register and login users under admin or standard user roles, perform CRUD operations, validate inputs, and handle request errors. All testing of our endpoints was performed using the Postman API platform.",
+        text: "A back end focused database application to create, update, & delete a list of criminal names.",
         view: "",
         source: "https://github.com/death-notebook/lights-notebook",
     },
     {
-        imgsrc: pro1,
-        title: "Project 6",
-        text: "Loren ipsum Loren ipsum  Loren ipsum Loren ipsum Loren ipsum Loren ipsum Loren ipsum Loren ipsum Loren ipsum Loren ipsum",
+        imgsrc: pro6,
+        title: "CalendarCrew",
+        text: "A full-stack web application designed to display a calendar with scheduling functionality.",
         view: "",
-        source: "",
+        source: "https://github.com/CalendarCrew/calendarcrew",
     }
 ];
 

@@ -24,6 +24,7 @@
 .project-title{
     color: #fff;
     padding: 1rem 0;
+    text-align: center;
 }
 
 .project-details p{
@@ -32,10 +33,16 @@
     text-align: justify;
 }
 
+.pro-details{
+    padding-bottom: 1rem;
+    font-size: 0.8rem;
+    text-align: center;
+}
+
 .pro-btns{
     display: flex;
     justify-content:  space-between;
-    padding: 0.5rem 0;
+    padding-top: 1rem;
 }
 
 .pro-btns .btn{
