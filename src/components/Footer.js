@@ -2,7 +2,7 @@ import "./FooterStyles.css";
 
 
 import React from "react";
-import { FaFacebook, FaHome, FaLinkedin, FaMailBulk, FaPhone, FaTwitter } from "react-icons/fa";
+import { FaHome, FaLinkedin, FaMailBulk, FaPhone, FaGithub} from "react-icons/fa";
 
 const Footer = () => {
     return (
@@ -12,26 +12,30 @@ const Footer = () => {
                     <div className="location">
                         <FaHome size={20} style={{ color:"#fff", marginRight: "2rem"}}/>
                         <div>
-                            <p>123 Street Name</p>
-                            <p>RANDOM CITY, USA</p>
+                            <p>Atlanta, GA, USA</p>
                         </div>
                     </div>
-                    <div classPhone="phone">
+                    <div className="phone">
                         <h4><FaPhone size={20} style={{ color:"#fff", marginRight: "2rem"}}/>
-                        (123)456-7890</h4>
+                        (618) 975-3572</h4>
                     </div>
-                    <div classPhone="email">
-                        <h4><FaMailBulk size={20} style={{ color:"#fff", marginRight: "2rem"}}/>
-                        info@email.gov</h4>
+                    <div className="email">
+                        <h4><FaMailBulk size={20} style={{ color:"#fff", marginRight: "2rem"}}/><a href="mailto:mdbrown543@gmail.com">mdbrown543@gmail.com</a></h4>
+                    </div>
+                    <div className="social">
+                        <h4><FaLinkedin size={20} style={{ color:"#fff", marginRight: "2rem"}}/>
+                        <a href="https://www.linkedin.com/in/mario-brown-ii/">linkedin.com/in/mario-brown-ii</a></h4>
+                    </div>
+                    <div className="github">
+                        <h4><FaGithub size={20} style={{ color:"#fff", marginRight: "2rem"}}/>
+                        <a href="https://github.com/mdbrown555">github.com/mdbrown555</a></h4>
                     </div>
                 </div>
                 <div className="right">
                     <h4>About the Author:</h4>
-                    <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                    <p>Detail-oriented software engineer interested in attaining IT careers in software engineering by utilizing my work experience at an industry leading consulting firm, specializing in Salesforce CRM administration, development, and technical support. Excellent problem-solving, communication, and teamwork skills, seeking new opportunities to leverage my expertise in software engineering to contribute to a growing organization's success.</p>
                     <div className="social">
-                    <FaFacebook size={30} style={{ color:"#fff", marginRight: "1rem"}}/>
-                    <FaTwitter size={30} style={{ color:"#fff", marginRight: "1rem"}}/>
-                    <FaLinkedin size={30} style={{ color:"#fff", marginRight: "1rem"}}/>
+    
                     </div>
                 </div>
             </div>
