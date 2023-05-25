@@ -1,3 +1,6 @@
+.top{
+    align-items: center;
+}
 .about{
     width: 100%;
     margin: 3rem 0;
@@ -21,6 +24,10 @@
 
 .about .right{
     max-width: 700px;
+}
+
+.img{
+    padding: 18px 18px;
 }
 
 .right .img-container{

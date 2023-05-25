@@ -1,9 +1,9 @@
 import pro1 from "../assets/kelly-sikkema-LzfP2KtuvVQ-unsplash.jpg";
 import pro2 from "../assets/kelly-sikkema-LzfP2KtuvVQ-unsplash.jpg";
 import pro3 from "../assets/kelly-sikkema-LzfP2KtuvVQ-unsplash.jpg";
-import pro4 from "../assets/kelly-sikkema-LzfP2KtuvVQ-unsplash.jpg";
+import pro4 from "../assets/Tool Pic.png";
 import pro5 from "../assets/kelly-sikkema-LzfP2KtuvVQ-unsplash.jpg";
-import pro6 from "../assets/kelly-sikkema-LzfP2KtuvVQ-unsplash.jpg";
+import pro6 from "../assets/Calendar Pic.png";
 
 const ProjectCardData = [
     {
