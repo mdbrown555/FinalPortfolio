@@ -30,6 +30,11 @@
     padding: 18px 18px;
 }
 
+.img-container{
+    text-align: center;
+    justify-content: center;
+}
+
 .right .img-container{
     display: grid;
     grid-template-columns: repeat(12, 1fr);

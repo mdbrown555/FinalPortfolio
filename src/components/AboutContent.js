@@ -1,24 +1,17 @@
 import "./AboutContentStyles.css"
 
 import React from "react";
-import { Link } from "react-router-dom";
 import pic1 from "../assets/AWS cert.png"
 import pic2 from "../assets/sf admin cert.png"
 
 const AboutContent = () => {
     return(
-    <div className="about">
-        <div className="top">
-            <h1>CERTIFICATIONS</h1>
-            <p>Software developer specializing in Salesforce and Full-stack web applications</p>
-            <Link to="/contact">
-                <button className="btn">Contact</button>
-            </Link>
-        </div>
+    <div className="about text-center">
         <div className="top">
             <div className="img-container">
+                <h6>AWS Cloud Practitioner</h6>
                 <div className="img-stack">
-                    <img style={{ width: 450, height: 300 }} src={pic1}
+                    <img style={{ width: 600, height: 450 }} src={pic1}
                     className="img"
                     alt="true" />
                 </div>
@@ -26,8 +19,9 @@ const AboutContent = () => {
         </div>
         <div className="top">
             <div className="img-container">
+            <h6>Salesforce Certified Administrator</h6>
                 <div className="img-stack">
-                    <img style={{ width: 450, height: 300 }} src={pic2}
+                    <img style={{ width: 600, height: 450 }} src={pic2}
                     className="img"
                     alt="true" />
                 </div>
