@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# <p align="center">Project Portfolio</p>
+### <p align="center">**Mario Brown**</p>
+### <p align="center">**March 2022 - June 2023**</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A collection of projects I have worked on during the Junior Software Engineer Apprenticeship collaboration between my employer, McKinsey & Company, and Multiverse from March 2022 - June 2023. My portfolio is divided between durable skills I have learned as part of the Risk CMS team at McKinsey supporting users primarily in Salesforce organzations, as well as group projects with fellow Multiverse apprentices and technical initiatives designed to improve the user experience in CMS. The portfolio is intended to be an archive of my work providing explantory links and Github repositories for individual projects.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Technical Projects](#Technical-Projects)
+- [Durable Skills](#Technologies)
+- [Usage instructions](#Usage-instructions)
+- [Project Presentation](#Project-Presentation)
+- [Acknowledgements](#Acknowledgements)
+- [Useful Links](#Useful-Links)
 
-### `npm start`
+## Technical Projects
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<details>
+  <summary>Click me</summary>
+  
+  ### UNIVERSAL PROFILE
+By creating unique permission sets replicating each user profile’s object access within the Salesforce organization, I was able to create a base-level Universal profile for existing users that can be enhanced by adding additional permissions upon request. This streamlines overlapping settings, improves assessment visibility across teams, removes and rearranges unused page sections, and enables constant Engagement Details tab availability to improve usage of common page layouts affecting over 600 internal users across a diverse range of risk assessment teams. This is an ongoing collaborative process involving several team member’s contributions and input, and utilizes constant feedback from users during testing and production rollout.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+</details>
 
-### `npm test`
+- UNIVERSAL PROFILE 
+By creating unique permission sets replicating each user profile’s object access within the Salesforce organization, I was able to create a base-level Universal profile for existing users that can be enhanced by adding additional permissions upon request. This streamlines overlapping settings, improves assessment visibility across teams, removes and rearranges unused page sections, and enables constant Engagement Details tab availability to improve usage of common page layouts affecting over 600 internal users across a diverse range of risk assessment teams. This is an ongoing collaborative process involving several team member’s contributions and input, and utilizes constant feedback from users during testing and production rollout.
+## Technologies
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [Node.js](https://nodejs.org/en/)
+- [Seqeulize](https://sequelize.org/)
+- [MySQL](https://www.mysql.com/)
+- [Express](https://expressjs.com/)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Postman](https://www.postman.com/)
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
-### `npm run build`
+ ## Usage instructions
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ 1. `npm install`
+ 2. `npm run start`
+ 3. In a new terminal, type `node server.js`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Portfolio Page Links
+- [Deployed Page](#)
+- [Project Board](https://github.com/orgs/CalendarCrew/projects/1)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Acknowledgements
+- Thanks to the team at Multiverse for providing excellent coaching and mentorship throughout my apprenticeship, and facilitating learning sessions that will provide a solid foundation in my future career as a software engineer.
+- Gratitude to McKinsey & Company for arranging the apprenticeship structure, providing a wonderful opportunity for non-traditional candidates to gain hands-on software engineering experience, and promoting an atmosphere of self-improvement and achievement to push us to be the best versions of ourselves.
+- Special thanks go towards my apprenticeship sponsor, Chen Zhou, for being a stellar role model and accomplished developer, giving daily support and advice throughout my tenure, and showing care and compassion during moments of personal strife.
+- Kudos to my fellow apprentices for being active students improving our abilities as engineers everyday and supporting one another during the program.
+- Thanks also go towards the Risk CMS team who never hesitated to provide guidance and assistance through difficult projects and assigned tasks, and always showcased professionalism and thoughtful analysis that I hope to see on any team I join.
+- [Postman](https://www.postman.com/)
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
