@@ -124,6 +124,7 @@
 <details>
   <summary>CalendarCrew</summary>
  - A full-stack web application designed to display a calendar with scheduling functionality.
+ 
 ## Main Features
 
 - CRUD Operations
