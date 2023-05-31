@@ -1,3 +1,16 @@
+.skills{
+   color: #eee;
+   text-align: center;
+   max-width: 1140px;
+   margin: auto;
+   display: grid;
+   grid-gap: 40px;
+}
+
+.p{
+   text-align: center;
+}
+
 .pricing{
     width: 100%;
     padding: 6rem 1rem;
@@ -23,7 +36,7 @@
     background-color: #141414;
  }
 
- .car h3{
+ .card h3{
     font-size: 1.4rem;
     padding:  1rem;
  }

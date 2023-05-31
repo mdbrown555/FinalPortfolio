@@ -124,7 +124,7 @@
 <details>
   <summary>CalendarCrew</summary>
  - A full-stack web application designed to display a calendar with scheduling functionality.
- 
+
 ## Main Features
 
 - CRUD Operations
@@ -188,8 +188,8 @@
 </details>
 
 <details>
-    <summary>REPORTS INSTRUCTION SESSIONS</summary>
-- Intructed teams and individuals on the use cases of reports and dashboards in Salesforce by providing step-by-step guidance on delivering functional components and avoiding common issues.
+    <summary>DASHBOARDS & REPORT INSTRUCTION</summary>
+- Educating users in creating templates for risk teams to build new dashboard components and deliver timely reports to leadership through data visualization. The reports requested by teams are used to collect historical data to identify trends and measure impact, enable searching within list views, and group related records for detailed analysis of leadership participation and case outcomes.
 
 ### DOL Competencies
 - JF 6.1	CommunicationMethods	Knows how best to communicate using different communication methods and how to adapt appropriately to different audiences
