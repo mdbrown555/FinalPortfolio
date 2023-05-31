@@ -28,7 +28,7 @@ const Footer = () => {
                     </div>
                     <div className="github">
                         <h4><FaGithub size={20} style={{ color:"#fff", marginRight: "2rem"}}/>
-                        <a href="https://github.com/mdbrown555">github.com/mdbrown555</a></h4>
+                        <a href="https://github.com/mdbrown555/finalportfolio">github.com/finalportfolio</a></h4>
                     </div>
                 </div>
                 <div className="right">
