@@ -15,7 +15,7 @@ A collection of projects I have worked on during the Junior Software Engineer Ap
 ## Technical Projects
 
 <details>
-  <summary> ### UNIVERSAL PROFILE</summary>
+  <summary>Universal Profile</summary>
  
 By creating unique permission sets replicating each user profile’s object access within the Salesforce organization, I was able to create a base-level Universal profile for existing users that can be enhanced by adding additional permissions upon request. This streamlines overlapping settings, improves assessment visibility across teams, removes and rearranges unused page sections, and enables constant Engagement Details tab availability to improve usage of common page layouts affecting over 600 internal users across a diverse range of risk assessment teams. This is an ongoing collaborative process involving several team member’s contributions and input, and utilizes constant feedback from users during testing and production rollout.
 
@@ -36,7 +36,7 @@ By creating an Apex class trigger that automatically populates specific fields o
 </details>
 
 <details>
-  <summary> ### AWS Glue Migration</summary>
+  <summary>AWS Glue Migration</summary>
  
 Decoupling of applications and data transfer to the cloud from ETL pipeline migration (Snaplogic to Glue) reducing on-premise presence to ease pipeline issues such as data inconsistency & eliminating 100% of latency between database and CMS enabling real time data sharing.
 
@@ -48,9 +48,80 @@ Decoupling of applications and data transfer to the cloud from ETL pipeline migr
 
 </details>
 
+<details>
+  <summary>KKMN Tools</summary>
+ 
+A mock hardware e-commerce website built using React & Redux with Stripe functionality.
+
+
+### Technologies
+- [React](https://www.salesforce.com/)
+- [Redux](https://aws.amazon.com/)
+- [Stripe](https://stripe.com)
+- [Strapi](https://strapi.io)
+
+</details>
 
 <details>
-    <summary>## Durable Skills</summary>
+  <summary>Light's Notebook</summary>
+ 
+A back end focused database application to create, update, & delete a list of criminal names.
+
+## Main Features
+- CRUD Operations -- Create, Read, Update, Delete
+- Authorization
+- Error handling
+- Authentication
+- Input Validation
+- Password Hashing and Salting
+
+## Technologies
+
+- [Node.js](https://nodejs.org/en/)
+- [Seqeulize](https://sequelize.org/)
+- [MySQL](https://www.mysql.com/)
+- [Express](https://expressjs.com/)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Postman](https://www.postman.com/)
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
+
+</details>
+
+<details>
+  <summary>CalendarCrew</summary>
+ 
+A full-stack web application designed to display a calendar with scheduling functionality.
+## Main Features
+
+- CRUD Operations
+  --  Create, Read, Update, Delete
+-   Authorization
+-   Error handling
+-   Authentication
+-   Input Validation
+-   Password Hashing and Salting
+
+## Technologies
+
+- [Node.js](https://nodejs.org/en/)
+- [Seqeulize](https://sequelize.org/)
+- [MySQL](https://www.mysql.com/)
+- [Express](https://expressjs.com/)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Postman](https://www.postman.com/)
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
+
+</details>
+
+## Durable Skills
+<details>
+    <summary>Certifications</summary>
+
+
+</details>
+
+<details>
+    <summary>Certifications</summary>
 
 
 </details>
